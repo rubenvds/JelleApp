@@ -1,0 +1,4 @@
+#Sat Nov 17 13:27:33 CET 2018
+base.0=C\:\\Users\\ruben\\Desktop\\Programmeren\\Jelle_app\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
